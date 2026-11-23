@@ -14,6 +14,11 @@ One joke about office life, a single line under 200 characters — a program tha
 
 > I hit reply-all to ask everyone to stop replying-all, and now 47 people are apologizing to everyone.
 
+100 characters, one line. The joke is built for the judge brief: a genuine
+office joke (reply-all storm), a real turn at the end (the complaint makes the
+problem worse), recognition (every office worker has lived this), tight
+wording, and a fresh take instead of the obvious Monday-morning line.
+
 ## License
 
 MIT
